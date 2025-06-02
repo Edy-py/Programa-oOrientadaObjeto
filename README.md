@@ -1,2 +1,2 @@
-# Programa-oOrientadaObjeto
+# ProgramaOrientadaObjeto
 Feito Durante a graduação - Java 
