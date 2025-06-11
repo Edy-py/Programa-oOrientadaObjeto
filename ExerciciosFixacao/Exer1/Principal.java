@@ -7,7 +7,7 @@ package ExerciciosFixacao.Exer1;
 public class Principal {
     public static void main(String[] args){
 
-        Funcoes.Cabessalho cabessalho = new Funcoes.Cabessalho("Programação Orientada a Objetos","02/06/2025","Atividade em sala","Marcio Dias");
+        Lista2.Funcoes.Cabessalho cabessalho = new Lista2.Funcoes.Cabessalho("Programação Orientada a Objetos","02/06/2025","Atividade em sala","Marcio Dias");
         cabessalho.imprimir();
 
         Pessoa pessoa = new Pessoa("Edilson","masculino","61 9 8190-7933",19);

@@ -1,4 +1,4 @@
-package Lista1.src.Funcoes;
+package Lista2.Funcoes;
 
 public class Cabessalho {
 

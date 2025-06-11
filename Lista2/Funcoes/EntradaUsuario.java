@@ -1,4 +1,4 @@
-package Lista1.src.Funcoes;
+package Lista2.Funcoes;
 
 import java.util.Scanner;
 

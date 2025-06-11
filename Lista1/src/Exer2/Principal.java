@@ -1,6 +1,6 @@
 package Lista1.src.Exer2;
 
-import Funcoes.Cabessalho;
+import Lista2.Funcoes.Cabessalho;
 
 
 public class Principal {

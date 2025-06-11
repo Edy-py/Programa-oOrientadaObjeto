@@ -3,7 +3,7 @@ package ExerciciosFixacao.ExerEmSala;
 public class Main {
     public static void main(String[] args) {
 
-        Funcoes.Cabessalho cabessalho = new Funcoes.Cabessalho("Programação Orientada a Objetos","02/06/2025","Atividade em sala","Marcio Dias");
+        Lista2.Funcoes.Cabessalho cabessalho = new Lista2.Funcoes.Cabessalho("Programação Orientada a Objetos","02/06/2025","Atividade em sala","Marcio Dias");
         cabessalho.imprimir();
 
         Aluno aluno = new Aluno();

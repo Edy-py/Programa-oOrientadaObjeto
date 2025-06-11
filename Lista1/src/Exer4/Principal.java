@@ -1,8 +1,7 @@
 package Lista1.src.Exer4;
 
-import Funcoes.Cabessalho;
-import Funcoes.EntradaUsuario;
-import Lista1.src.Exer4.CalculoMedia;
+import Lista2.Funcoes.Cabessalho;
+import Lista2.Funcoes.EntradaUsuario;
 
 public class Principal {
     public static void main(String[] args) {

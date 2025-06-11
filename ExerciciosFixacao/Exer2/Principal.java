@@ -3,7 +3,7 @@ package ExerciciosFixacao.Exer2;
 public class Principal {
     public static void main(String[] args) {
 
-        Funcoes.Cabessalho cabessalho = new Funcoes.Cabessalho("Programação Orientada a Objetos","02/06/2025","Atividade de Fixação","Marcio Dias");
+        Lista2.Funcoes.Cabessalho cabessalho = new Lista2.Funcoes.Cabessalho("Programação Orientada a Objetos","02/06/2025","Atividade de Fixação","Marcio Dias");
         cabessalho.imprimir();
 
         int soma = 0;

@@ -1,8 +1,7 @@
 package Lista1.src.Exer5;
 
-import Funcoes.Cabessalho;
-import Funcoes.EntradaUsuario;
-import Lista1.src.Exer5.MaiorValor;
+import Lista2.Funcoes.Cabessalho;
+import Lista2.Funcoes.EntradaUsuario;
 
 
 public class Principal {

@@ -1,8 +1,8 @@
 package Lista1.src.Exer6;
 
 
-import Funcoes.Cabessalho;
-import Funcoes.EntradaUsuario;
+import Lista2.Funcoes.Cabessalho;
+import Lista2.Funcoes.EntradaUsuario;
 
 public class Principal {
     public static void main(String[] args) {
